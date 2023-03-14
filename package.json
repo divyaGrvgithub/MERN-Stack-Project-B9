@@ -1,0 +1,22 @@
+{
+  "name": "mern-stack-assignment-b9",
+  "version": "1.0.0",
+  "description": "• Create components to create & edit task\r • TASK Schema\r o Title (text)\r o Description (text)\r o Status (ENUM [Open, In-Progress, Completed])\r o Datetime stamp (timestamp)\r • RESTful API to create and edit task.\r • Integrate the frontend and backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyaGrvgithub/MERN-Stack-Assignment-B9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyaGrvgithub/MERN-Stack-Assignment-B9/issues"
+  },
+  "homepage": "https://github.com/divyaGrvgithub/MERN-Stack-Assignment-B9#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
